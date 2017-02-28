@@ -12,4 +12,10 @@ It looks like PPT rebuilds the two folders in `/opt/poolparty/data/frontendRoot/
 
 ---
 
-It has been confirmed that the customisation gets wiped after a restart.
+It has been confirmed that the customisation gets wiped after a restart. The advice from the Semantic Web Company regarding this issue is: 
+
+> Using the custom folder for your LD frontend customization keeps the CSS customizations, even when the server is restarted or re-deployed e.g., during an update.
+
+I am pretty sure we tried that and that it did not work (see above).
+
+There is more information here: https://help.poolparty.biz/faq/faq-s/operating-poolparty-server/how-to-set-up-a-custom-linked-data-frontend.
