@@ -12,4 +12,4 @@ It looks like PPT rebuilds the two folders in `/opt/poolparty/data/frontendRoot/
 
 ---
 
-It has been confirmed that the customisation get wiped after a restart.
+It has been confirmed that the customisation gets wiped after a restart.
